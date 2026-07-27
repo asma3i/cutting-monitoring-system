@@ -1,5 +1,9 @@
 node_modules/
-.env
+dist/
 *.sqlite
 *.sqlite3
-dist/
+.env
+.env.local
+tunnel_url.txt
+tunnel.log
+CHANGELOG.md
